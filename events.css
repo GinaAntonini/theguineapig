@@ -1,0 +1,28 @@
+.color {
+	color: blue;
+}
+
+.hulkify {
+	font-size: 3em;
+}
+
+.addTheBorder {
+	border: 2px solid blue;
+}
+
+.border-radius {
+	border-radius: 30%;
+}
+
+.firstSectionBold {
+	font-weight: bold;
+}
+
+.lastSectionBoldAndItalic {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.buttons {
+	display: block;
+}
