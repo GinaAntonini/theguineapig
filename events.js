@@ -52,16 +52,16 @@ function makeRounded() {
 // The first section's text should be bold.
 // The last section's text should be bold and italicized.
 
-// function sectionStyles {
-// 	var children = document.getElementById("section-container").children
-// 	for(var i = 0; i < 0; i++)
-// }
-// if (child === 0) {
-// 	classList.add('firstSectionBold');
-// }
-// 	else if (child === 6){
-// 		classList.add('lastSectionBoldItalic');
-// 	}
+function sectionStyles {
+	var children = document.getElementById("section-container").children
+	for(var i = 0; i < 0; i++)
+}
+if (child === 0) {
+	classList.add('firstSectionBold');
+}
+	else if (child === 6) {
+		classList.add('lastSectionBoldAndItalic');
+	}
 
 // Make the buttons stop appearing next to each other as inline elements. Change them into block elements.
 var theButtons = document.getElementById('buttons');
